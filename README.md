@@ -3,9 +3,7 @@
 
 ## Descrição
 
-Este repositório contém a solução para o desafio de backend proposto pelo PicPay. O projeto é uma implementação simplificada de uma plataforma de pagamentos, com foco na realização de transferências entre usuários e no envio de notificações.
-
-## Requisitos
+Este repositório contém a solução para o desafio de backend proposto pelo PicPay. 
 
 - **Framework Utilizado:** Spring Boot
 - **Linguagem:** Java
