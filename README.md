@@ -109,8 +109,4 @@ Realiza uma transferência entre dois usuários.
 - **Notificações:** Envia notificações por e-mail para os usuários envolvidos na transação.
 
 
-## Contribuindo
-
-Se você deseja contribuir com melhorias ou correções, faça um fork deste repositório e envie um pull request com suas alterações.
-
 
